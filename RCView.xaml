@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF_RemoteControl_with_USBUIRT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Programa de Controle de TV" Height="205" Width="518">
+    <Grid>
+        <RadioButton Content="RadioButton" Height="14" HorizontalAlignment="Left" Margin="128,44,0,0" Name="radioButton1" VerticalAlignment="Top" Width="12" />
+        <RadioButton Content="RadioButton" Height="12" HorizontalAlignment="Right" Margin="0,46,243,0" Name="radioButton2" VerticalAlignment="Top" Width="14" />
+        <RadioButton Content="RadioButton" Height="14" HorizontalAlignment="Left" Margin="350,0,0,106" Name="radioButton3" VerticalAlignment="Bottom" Width="12" />
+        <RadioButton Content="RadioButton" Height="14" HorizontalAlignment="Left" Margin="38,44,0,0" Name="radioButton4" VerticalAlignment="Top" Width="12" />
+        <RadioButton Content="RadioButton" Height="14" HorizontalAlignment="Left" Margin="104,76,0,0" Name="radioButton5" VerticalAlignment="Top" Width="12" />
+        <RadioButton Content="RadioButton" Height="14" HorizontalAlignment="Left" Margin="211,77,0,0" Name="radioButton6" VerticalAlignment="Top" Width="12" />
+        <RadioButton Content="RadioButton" Height="13" HorizontalAlignment="Right" Margin="0,76,171,0" Name="radioButton7" VerticalAlignment="Top" Width="15" />
+        <Button Content="Aprender" Height="21" HorizontalAlignment="Left" Margin="62,8,0,0" Name="button1" VerticalAlignment="Top" Width="78" Click="button1_Click" />
+        <Button Content="Ligar" Height="26" HorizontalAlignment="Left" Margin="10,121,0,0" Name="button2" VerticalAlignment="Top" Width="62" Click="button2_Click" />
+        <Label Content="Ligar" Height="32" HorizontalAlignment="Left" Margin="59,38,0,0" Name="label1" VerticalAlignment="Top" Width="57" />
+        <Label Content="Desligar" Height="25" HorizontalAlignment="Left" Margin="149,38,0,0" Name="label2" VerticalAlignment="Top" Width="74" />
+        <Label Content="+ Vol" Height="22" HorizontalAlignment="Left" Margin="259,38,0,0" Name="label3" VerticalAlignment="Top" Width="44" />
+        <Label Content="- Vol" Height="25" Margin="0,38,62,0" Name="label4" VerticalAlignment="Top" HorizontalAlignment="Right" Width="76" />
+        <Label Content="+ Ch" Height="29" HorizontalAlignment="Left" Margin="133,70,0,0" Name="label5" VerticalAlignment="Top" Width="43" />
+        <Label Content="- Ch" HorizontalAlignment="Left" Margin="232,71,0,70" Name="label6" Width="72" />
+        <Label Content="Mute" Height="23" HorizontalAlignment="Left" Margin="334,71,0,0" Name="label7" VerticalAlignment="Top" Width="84" />
+        <Button Content="Desligar" Height="26" HorizontalAlignment="Left" Margin="78,121,0,0" Name="button3" VerticalAlignment="Top" Width="62" Click="button3_Click" />
+        <Button Content="+ Vol" Height="26" HorizontalAlignment="Left" Margin="146,121,0,0" Name="button4" VerticalAlignment="Top" Width="62" Click="button4_Click" />
+        <Button Content="- Vol" Height="26" HorizontalAlignment="Left" Margin="214,121,0,0" Name="button5" VerticalAlignment="Top" Width="62" Click="button5_Click" />
+        <Button Content="+ Ch" Height="26" HorizontalAlignment="Left" Margin="282,121,0,0" Name="button6" VerticalAlignment="Top" Width="62" Click="button6_Click" />
+        <Button Content="- Ch" Height="26" HorizontalAlignment="Right" Margin="0,121,84,0" Name="button7" VerticalAlignment="Top" Width="62" Click="button7_Click" />
+        <Button Content="Mute" Height="26" HorizontalAlignment="Right" Margin="0,121,12,0" Name="button8" VerticalAlignment="Top" Width="62" Click="button8_Click" />
+        <TextBox Height="21" HorizontalAlignment="Left" Margin="162,8,0,0" Name="textBox1" VerticalAlignment="Top" Width="322" />
+    </Grid>
+</Window>

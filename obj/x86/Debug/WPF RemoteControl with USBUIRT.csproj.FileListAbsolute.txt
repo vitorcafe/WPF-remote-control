@@ -1,0 +1,37 @@
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\WPF RemoteControl with USBUIRT.pdb
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\RCView.baml
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\RCView.g.cs
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\App.g.cs
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT_MarkupCompile.cache
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.g.resources
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF_RemoteControl_with_USBUIRT.Properties.Resources.resources
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.csproj.GenerateResource.Cache
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.pdb
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\UsbUirtManagedWrapper.dll
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.csprojResolveAssemblyReference.cache
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\WPF RemoteControl with USBUIRT.pdb
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\RCView.baml
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\RCView.g.cs
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\App.g.cs
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT_MarkupCompile.cache
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.g.resources
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF_RemoteControl_with_USBUIRT.Properties.Resources.resources
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.csproj.GenerateResource.Cache
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Guto\Desktop\WPFRemoteControl-master\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.pdb
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.pdb
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\WPF RemoteControl with USBUIRT.pdb
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\RCView.baml
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\RCView.g.cs
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\App.g.cs
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT_MarkupCompile.cache
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.g.resources
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF_RemoteControl_with_USBUIRT.Properties.Resources.resources
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.csproj.GenerateResource.Cache
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\x86\Debug\UsbUirtManagedWrapper.dll
+C:\Users\Vitor Cafe\Desktop\Engenharia\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\x86\Debug\WPF RemoteControl with USBUIRT.csprojResolveAssemblyReference.cache

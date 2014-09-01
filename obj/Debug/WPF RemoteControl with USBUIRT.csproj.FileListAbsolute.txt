@@ -1,0 +1,11 @@
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\bin\Debug\WPF RemoteControl with USBUIRT.pdb
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\RCView.baml
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\RCView.g.cs
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\App.g.cs
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\WPF RemoteControl with USBUIRT_MarkupCompile.cache
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\WPF RemoteControl with USBUIRT.g.resources
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\WPF_RemoteControl_with_USBUIRT.Properties.Resources.resources
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\WPF RemoteControl with USBUIRT.csproj.GenerateResource.Cache
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\WPF RemoteControl with USBUIRT.exe
+C:\Users\Vitor Cafe\Desktop\Plugins Visual Studio 2010\WPFRemoteControl-master\WPF RemoteControl with USBUIRT\WPF RemoteControl with USBUIRT\obj\Debug\WPF RemoteControl with USBUIRT.pdb
